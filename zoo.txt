@@ -1,0 +1,19 @@
+1  Bear
+2  Elephant
+3  Giraffe
+4  Gaint Panda
+5  Lion
+6  Tiger
+7  Monkey
+8  Gorilla
+9  Kangaroo
+10 Zebra
+11 Peafowl
+12 penguin
+13 Bongo
+14 Ostriches
+15 Red river hog
+16 American alligator
+18 Ruffed lemurs
+19 Big cat
+20 Koala
